@@ -1,0 +1,45 @@
+_repo: Romance-Island_13731
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wall, H. C. (Hermann Carl)
+    aliases:
+    - Wall, Herman C. (Hermann Carl)
+    - Wall, Hermann C. (Hermann Carl)
+    birthdate: 1875
+    deathdate: 1919
+    gutenberg_agent_id: '39693'
+    url: http://www.gutenberg.org/2009/agents/39693
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gale, Zona
+    aliases:
+    - Breese, William Lleywelyn, Mrs.
+    - Breese, William Llywelyn, Mrs.
+    birthdate: 1874
+    deathdate: 1938
+    gutenberg_agent_id: '3531'
+    url: http://www.gutenberg.org/2009/agents/3531
+    wikipedia: http://en.wikipedia.org/wiki/Zona_Gale
+description: ''
+gutenberg_issued: '2004-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13731'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'Journalists -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Adventure stories'
+- !lcsh 'Islands -- Fiction'
+- !lcsh 'South Pacific Ocean -- Fiction'
+- !lcsh 'Science fiction'
+title: Romance Island
+url: http://www.gutenberg.org/ebooks/13731
