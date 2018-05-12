@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3531
     wikipedia: http://en.wikipedia.org/wiki/Zona_Gale
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13731#Romance-Island
 gutenberg_issued: '2004-10-13'
 gutenberg_type: Text
 identifiers:
